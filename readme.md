@@ -4,7 +4,7 @@
 [https://paulhorstmann.github.io/Flashcards/](https://paulhorstmann.github.io/Flashcards/)
 
 ### Steps
-1. Think about the capital of the contrary on tha card
+1. Brooding over the capital of the country on the card
 2. Hover over the card
 3. Check if you are right
 
