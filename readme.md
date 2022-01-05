@@ -1,6 +1,6 @@
 # Flashcards
 ![Screenshot](https://github.com/paulhorstmann/Flashcards/blob/master/screenshot.png?raw=true)
-### Preview
+### Demo
 [https://paulhorstmann.github.io/Flashcards/](https://paulhorstmann.github.io/Flashcards/)
 
 ### Steps
