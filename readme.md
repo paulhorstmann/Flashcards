@@ -13,10 +13,8 @@
 This is a part of the Frontend Developer track from Jetbrains Academy <br>
 [https://hyperskill.org/projects/115?track=5](https://hyperskill.org/projects/115?track=5)
 
-| Projekte   | Github Reposetorie | Gitub Pages |
-| ---------- | ------------------ | ----------- |
-| Flashcards |                    |             |
-|            |                    |             |
-|            |                    |             |
-|            |                    |             |
-|            |                    |             |
+### Other Projects 
+| Project    | Repositorie                                 | Gitub Pages                                 |
+| :--------- | :------------------------------------------ | :------------------------------------------ |
+| Flashcards | https://github.com/paulhorstmann/Flashcards | https://paulhorstmann.github.io/Flashcards/ |
+| Open-Space | https://github.com/paulhorstmann/Open-Space | https://paulhorstmann.github.io/Open-Space/ |
